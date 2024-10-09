@@ -20,13 +20,13 @@ Kolmogorov-Arnold networks, based on the Kolmogorov-Arnold representation theore
 
 ## Requirements
 
-Python 3.7+
+1. Python 3.7+
 
-PyTorch
+2. PyTorch
 
-NumPy
+3. NumPy
 
-LLM like GPT2/ DistillBERT
+4. LLM like GPT2/ DistillBERT
 
 ## Installation
 
